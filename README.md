@@ -13,6 +13,21 @@ def solution(k: int, text: str) -> str:
     return s
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2)Caesar Encrypt
 def solution(k: int, text: str) -> str:
     s = ""
